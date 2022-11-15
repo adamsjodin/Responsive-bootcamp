@@ -39,7 +39,8 @@ body {
 .aside-left div {
     flex: 1;
     background-color: #b3008a;
-    margin: 0.5rem 0;
+    margin: 0.2rem 0;
+    padding: 1rem;
 }
 
 .main {
@@ -48,7 +49,7 @@ body {
 
 .aside-right {
     grid-area: aside-right;
-    background-color: #90535e;
+    background-color: #FD96A9;
     margin: 0.5rem 0;
 }
 
